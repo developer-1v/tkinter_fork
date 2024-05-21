@@ -1,10 +1,10 @@
 # Project Title
 
 ## Purpose
-This project is simply a pip-installable fork of tkinter that simplifies the installation process for tkinter when creating standalone applications that require it. Several exe creators have trouble installing tkinter even though it is part of the standard library. This project is a solution to that problem.
+This project provides a pip-installable version of tkinter, designed to streamline the installation process for standalone applications that depend on it. Many executable creators face challenges with integrating tkinter, despite its inclusion in the standard library. This project is a solution to that problem.
 
-## Credits
-This project builds upon the work of the original Python authors and the developers of the Tkinter library. We acknowledge and appreciate their significant contributions to the Python community.
+## Acknowledgments
+This project recognizes the essential contributions of the original Python authors and the Tkinter library developers. Their efforts have significantly advanced the Python community and enabled numerous technological innovations.
 
 ### Python Authors
 Python was originally conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands.
